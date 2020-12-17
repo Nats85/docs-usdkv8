@@ -1,0 +1,15 @@
+docs:
+  - title:  Acceso a la consola
+    chapter: "acceso"
+  - title: Configuración para el tipo de autenticación
+    chapter: "configuracion"
+  - title: Panel de novedades
+    chapter: "panel"
+  - title: Registro de casos con el wizard
+    chapter: "registro"
+  - title: Uso de los CI en la consola de USDK
+    chapter: "uso"
+  - title: Consulta de artículos de la Base de Conocimiento
+    chapter: "consulta"
+  - title: Personalización
+    chapter: "personalizacion"
